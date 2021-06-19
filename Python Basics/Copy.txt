@@ -1,0 +1,3 @@
+Btech CSE III Year
+Kashish Goel
+This is a New Sample file generated for File Handling in Pyhton.

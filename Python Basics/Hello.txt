@@ -1,0 +1,20 @@
+
+This is a text written by append
+
+This is a text written by read+write
+
+This is a text written by append
+
+This is a text written by read+write
+This is a text written by append
+This is a text written by append
+
+This is a text written by read+write
+This is a text written by append
+This is a text written by append
+
+This is a text written by read+write
+
+This is a text written by read+write
+
+This is a text written by read+write
